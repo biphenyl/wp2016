@@ -1,5 +1,10 @@
 p{
   font-family: arial;
   font-size: 24px;
-  color: pink; 
+  color: lightblue; 
+  }
+.minor{
+  font-family: arial;
+  font-size: 16px;
+  color: blue;
   }
