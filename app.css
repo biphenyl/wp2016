@@ -1,10 +1,10 @@
-p{
+div{
   font-family: arial;
   font-size: 24px;
   color: lightblue; 
   }
 
-p.first{
+div.first{
   max-height: 4px;
   color: black;
   }
