@@ -20,8 +20,9 @@ h1{
 .minor{
   font-family: arial;
   font-size: 16px;
+  height: 16px;
   color: lightblue;
-  padding: 10px 10px 20px 30px;
+  margin-top: 2px;
   }
 
 a{
