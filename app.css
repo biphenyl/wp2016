@@ -6,12 +6,15 @@ div{
 
 h1{
   font-size: 36px;
-  color = black;
+  color : black;
   }
+
 .first{
-  font-size = 32px;
+  font-size : 32px;
+  text-align : center;
+  background-color: gray;
   color: black;
-  }
+}
 
 .minor{
   font-family: arial;
