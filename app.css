@@ -3,7 +3,7 @@ p{
   font-size: 24px;
   color: lightblue; 
   }
-p.minor{
+pre.minor{
   font-family: arial;
   font-size: 16px;
   line-height: 18px; 
